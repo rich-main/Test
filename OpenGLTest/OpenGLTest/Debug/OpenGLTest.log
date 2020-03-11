@@ -1,0 +1,9 @@
+﻿    正在创建库 E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\OpenGLTest.lib 和对象 E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\OpenGLTest.exp
+gltools.lib(GLBatch.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLBatch.obj)”或在“E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(glew.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(glew.obj)”或在“E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLShaderManager.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLShaderManager.obj)”或在“E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTools.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLTools.obj)”或在“E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLTriangleBatch.obj)”或在“E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(math3d.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(math3d.obj)”或在“E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  OpenGLTest.vcxproj -> E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\OpenGLTest.exe
+  OpenGLTest.vcxproj -> E:\documents\visual studio 2015\Projects\OpenGLTest\Debug\OpenGLTest.pdb (Full PDB)
